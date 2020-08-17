@@ -32,8 +32,7 @@ function check() {
 
       e.preventDefault();
       
-      }
-     });
+      });
    });
 };
 window.addEventListener("load", check);
